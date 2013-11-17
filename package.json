@@ -1,0 +1,21 @@
+{
+  "name": "note-utils",
+  "version": "0.0.1",
+  "description": "Note Utilities",
+  "main": "nu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Cristiano Belloni",
+  "license": "BSD",
+  "devDependencies": {
+    "karma": "~0.10.4",
+    "karma-mocha": "~0.1.0",
+    "karma-requirejs": "~0.1.0",
+    "karma-phantomjs-launcher": "~0.1.0",
+    "karma-chrome-launcher": "~0.1.0",
+    "karma-junit-reporter": "~0.1.0",
+    "chai": "~1.8.1"
+  }
+}
